@@ -4,21 +4,6 @@
 
 ---
 
-## Table of Contents
-
-1. [Project Background](#1-project-background)
-2. [Executive Summary](#2-executive-summary)
-3. [Dataset & Methodology](#3-dataset--methodology)
-4. [Data Cleaning & Preparation](#4-data-cleaning--preparation)
-5. [Fraud Performance Analysis](#5-fraud-performance-analysis)
-6. [Key Insights](#6-key-insights)
-7. [Business Recommendations](#7-business-recommendations)
-8. [Dashboard](#8-dashboard)
-9. [Limitations & Assumptions](#9-limitations--assumptions)
-10. [Tools & Technologies](#10-tools--technologies)
-
----
-
 ## 1. Project Background
 
 ### Business Context
@@ -215,8 +200,6 @@ While this partially reflects population size, the per-capita fraud rate in thes
 
 **Business implication:** Regional enforcement and awareness campaigns concentrated in ON and QC would address the largest share of national fraud exposure. Provincial law enforcement and financial institutions in these regions should be priority partners.
 
-*Source: `/data/cyberfraud_data.xlsx` — province_loss_distribution analysis*
-
 ---
 
 ### Insight 3 — Working-Age Adults (30–59) Are the Primary Target Demographic 🟠
@@ -226,20 +209,6 @@ While this partially reflects population size, the per-capita fraud rate in thes
 This demographic is also the most financially impacted per incident, suggesting fraudsters are deliberately targeting higher-value targets rather than maximizing victim volume.
 
 **Business implication:** Prevention messaging, financial institution alerts, and workplace fraud awareness programs should be prioritized for the 30–59 demographic — Canada's highest-risk and highest-loss cohort.
-
-*Source: `/data/cyberfraud_data.xlsx` — age_group_victim_analysis*
-
----
-
-### Insight 4 — Fraud Losses Are Growing Year-over-Year With No Signs of Plateauing 🔴
-
-> **Reported losses have increased consistently from 2021 to 2025, with 2025 representing the peak exposure year in the dataset.**
-
-The upward trajectory suggests that current prevention efforts are not keeping pace with the scale and sophistication of cyber fraud in Canada. Without structural intervention, losses will continue to climb.
-
-**Business implication:** Reactive, campaign-based prevention is insufficient. Canada needs proactive, data-driven fraud monitoring infrastructure that can detect emerging fraud typologies before they scale.
-
-*Source: `/data/cyberfraud_data.xlsx` — yoy_loss_trend analysis*
 
 ---
 
