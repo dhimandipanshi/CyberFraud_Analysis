@@ -391,9 +391,9 @@ An interactive **Power BI dashboard** was built to enable fraud trend exploratio
 
 **Dashboard File:** `/dashboard/CyberFraudDashboard.pbix`
 
-![Dashboard Preview](images/dashboard_preview.png)
+![Dashboard Preview](23.png)
 
-🔗 **[View Power BI Dashboard](#)** *(Add Power BI Public link)*
+🔗 **[View Power BI Dashboard](#)** *()*
 
 ---
 
