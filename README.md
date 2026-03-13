@@ -213,26 +213,8 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
 
-### Year-over-Year Trend (2021–2025)
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║              ANNUAL FRAUD LOSSES TREND                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  2021   ████████████████           Baseline year                 ║
-║  2022   ██████████████████         ↑ Rising                      ║
-║  2023   ████████████████████       ↑ Rising                      ║
-║  2024   ██████████████████████     ↑ Accelerating                ║
-║  2025   ████████████████████████   ↑ Peak exposure   ⚠️          ║
-║                                                                  ║
-╠══════════════════════════════════════════════════════════════════╣
-║  Fraud losses have grown consistently year-over-year             ║
-║  2025 represents the highest reported exposure in the dataset    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
 
 ---
 
@@ -300,56 +282,6 @@ The upward trajectory suggests that current prevention efforts are not keeping p
 
 ---
 
-### P1 — Target Investment Scam Prevention Nationally 🔴
-
-**Expected impact: Highest-ROI prevention intervention available** *(based on loss concentration analysis)*
-
-- Launch targeted investment scam awareness campaigns across digital and financial channels
-- Partner with Canadian financial institutions to flag suspicious investment solicitations
-- Educate consumers on common investment fraud patterns (fake platforms, Ponzi schemes, crypto scams)
-- Establish CAFC reporting pathways specifically streamlined for investment fraud victims
-
----
-
-### P2 — Concentrate Regional Campaigns in Ontario & Quebec 🔴
-
-**Expected impact: Addresses majority of national fraud volume**
-
-- Allocate disproportionate prevention resources to ON and QC relative to other provinces
-- Partner with provincial law enforcement (OPP, SQ) on coordinated fraud prevention messaging
-- Use geographic dashboards to monitor regional trends and deploy resources dynamically
-- Establish province-level fraud reporting benchmarks to measure campaign effectiveness
-
----
-
-### P3 — Build 30–59 Demographic Awareness Programs 🟠
-
-**Expected impact: Reaches highest-loss victim cohort**
-
-- Design workplace fraud awareness programs targeting working-age professionals
-- Partner with Canadian employers and HR teams to distribute prevention materials
-- Tailor messaging to the specific fraud types most affecting this demographic (investment, romance)
-- Leverage financial institution touchpoints (banking apps, statements) to reach this cohort
-
----
-
-### P4 — Strengthen Early Detection for Investment Fraud 🟠
-
-- Work with OSC and financial regulators to flag unregistered investment platforms
-- Implement real-time transaction monitoring for patterns consistent with investment scam activity
-- Build cross-institutional data-sharing frameworks to detect fraud networks across banks
-
----
-
-### P5 — Build Ongoing YoY Fraud Monitoring 🟡
-
-- Implement annual fraud trend reporting across all key metrics (type, region, demographic)
-- Set loss threshold alerts for emerging fraud typologies showing accelerating growth
-- Enable self-serve Power BI dashboard access for enforcement and policy teams
-- Schedule quarterly fraud trend reviews with CAFC and provincial stakeholders
-
----
-
 ### Expected Cumulative Impact
 
 ```
@@ -393,9 +325,6 @@ An interactive **Power BI dashboard** was built to enable fraud trend exploratio
 
 ![Dashboard Preview](23.png)
 
-🔗 **[View Power BI Dashboard](#)** *()*
-
----
 
 ## 9. Limitations & Assumptions
 
@@ -419,25 +348,6 @@ An interactive **Power BI dashboard** was built to enable fraud trend exploratio
 | **Microsoft Excel (Power Query)** | Data cleaning, ETL pipeline, field standardization |
 | **Power BI (DAX, Dashboards)** | Interactive visualization, trend analysis, stakeholder reporting |
 | **Git & GitHub** | Version control and portfolio publishing |
-
----
-
-## Project Structure
-
-```
-Cyber-fraud-Analysis/
-│
-├── data/
-│   └── cyberfraud_data.xlsx      # Cleaned dataset (ETL applied)
-│
-├── dashboard/
-│   └── CyberFraudDashboard.pbix  # Power BI workbook
-│
-├── images/
-│   └── dashboard_preview.png     # Dashboard screenshot
-│
-└── README.md                     # Project report (this file)
-```
 
 ---
 
