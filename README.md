@@ -204,7 +204,6 @@ This concentration effect is critical for resource allocation. Fraud volume and 
 
 **Business implication:** Directing the majority of prevention spend toward investment scam awareness and detection delivers substantially higher ROI than broad-based campaigns spread across all fraud types.
 
-*Source: `/data/cyberfraud_data.xlsx` — fraud_type_loss_summary analysis*
 
 ---
 
@@ -297,7 +296,7 @@ An interactive **Power BI dashboard** was built to enable fraud trend exploratio
 - Victim age-group analysis and demographic risk mapping
 - Year-over-year trend monitoring with KPI cards
 
-**Dashboard File:** `/dashboard/CyberFraudDashboard.pbix`
+**Dashboard File:** 
 
 ![Dashboard Preview](23.png)
 
