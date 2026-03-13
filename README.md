@@ -70,12 +70,13 @@ This concentration effect means that targeting investment fraud prevention deliv
 ---
 
 ```
+
 ╔══════════════════════════════════════════════════════════════════╗
 ║           CYBER FRAUD — NATIONAL OVERVIEW (2021–2025)            ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║                                                                  ║
-║  TOTAL VICTIMS        ████████████████████████  295,000+         ║
-║  TOTAL LOSSES         ████████████████████████  $637M+           ║
+║  TOTAL VICTIMS                                  295,000+         ║
+║  TOTAL LOSSES                                   $637M+           ║
 ║                                                                  ║
 ║  TOP FRAUD TYPE       Investment Scams          Highest losses   ║
 ║  TOP PROVINCE         Ontario                   Most incidents   ║
@@ -155,16 +156,7 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 ### Fraud Type — Financial Loss Breakdown
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║              LOSSES BY FRAUD TYPE                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Investment Scams    ████████████████████████  Highest losses    ║
-║  Romance Scams       ████████████████          High losses       ║
-║  Phishing            ████████████              Moderate losses   ║
-║  Identity Theft      █████████                 Moderate losses   ║
-║  Other               ████████                  Lower losses      ║
-║                                                                  ║
+![Screenshot](Category.png)
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Investment scams drive disproportionate share of $637M+         ║
 ║  High volume ≠ high loss — fraud type mix matters                ║
@@ -176,16 +168,8 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 ### Geographic Distribution — Incidents by Province
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║              FRAUD INCIDENTS BY PROVINCE                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  Ontario         ████████████████████████  Highest volume        ║
-║  Quebec          ████████████████████      High volume           ║
-║  BC              █████████████             Moderate              ║
-║  Alberta         ████████████              Moderate              ║
-║  Other           ████████                  Lower volume          ║
-║                                                                  ║
+![ Screenshot](Area.png)
+
 ╠══════════════════════════════════════════════════════════════════╣
 ║  ON + QC account for the majority of national fraud reports      ║
 ║  Concentration tracks with population density                    ║
@@ -197,16 +181,8 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 ### Victim Demographics — Age Group Analysis
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║              VICTIMS BY AGE GROUP                                ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  30–44 Years     ████████████████████████  Highest risk  ⚠️      ║
-║  45–59 Years     ████████████████████      High risk     ⚠️      ║
-║  60+ Years       ████████████████          Significant          ║
-║  18–29 Years     ████████████              Moderate             ║
-║  Under 18        ████                      Lower                ║
-║                                                                  ║
+![Screenshot](age.png)
+
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Working-age adults (30–59) are the primary target demographic   ║
 ║  Higher disposable income = higher fraud exposure                ║
