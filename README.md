@@ -155,8 +155,8 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 
 ### Fraud Type — Financial Loss Breakdown
 
-```
 ![Screenshot](Category.png)
+```
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Investment scams drive disproportionate share of $637M+         ║
 ║  High volume ≠ high loss — fraud type mix matters                ║
@@ -167,8 +167,8 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 
 ### Geographic Distribution — Incidents by Province
 
-```
 ![ Screenshot](Area.png)
+```
 
 ╠══════════════════════════════════════════════════════════════════╣
 ║  ON + QC account for the majority of national fraud reports      ║
@@ -180,8 +180,8 @@ All preparation was performed in **Microsoft Excel (Power Query)** using a struc
 
 ### Victim Demographics — Age Group Analysis
 
-```
 ![Screenshot](age.png)
+```
 
 ╠══════════════════════════════════════════════════════════════════╣
 ║  Working-age adults (30–59) are the primary target demographic   ║
