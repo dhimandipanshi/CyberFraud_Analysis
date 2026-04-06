@@ -22,6 +22,7 @@ The goal was to identify the fraud types, regions, and demographics causing the 
 
 ---
 
+
 ## Methodology
 
 - Collected and analyzed **295,000+ fraud records (2021–2025)** from CAFC  
@@ -73,4 +74,7 @@ The goal was to identify the fraud types, regions, and demographics causing the 
 - Build demographic-specific fraud prevention messaging  
 - Implement quarterly fraud monitoring dashboard updates  
 - Expand analysis into predictive fraud detection models  
-- Establish data-sharing frameworks across financial institutions and regulators  
+- Establish data-sharing frameworks across financial institutions and regulators
+
+
+![Dashboard](23.png)
